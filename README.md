@@ -4,7 +4,7 @@
 
 ## **Overview**
 
-This repository contains the Power BI healthcare dashboard project developed as part of HealthStat Solutions' analytical initiatives. The dashboard provides deep insights into patient demographics, treatment outcomes, cost analysis, and hospital performance metrics. Leveraging advanced data modeling, DAX calculations, and interactive visualizations, this tool aids healthcare providers in improving patient care, optimizing operations, and making data-driven decisions.
+This repository contains the Power BI Ecommerce dashboard project developed as part of HealthStat Solutions' analytical initiatives. The dashboard provides deep insights into patient demographics, treatment outcomes, cost analysis, and hospital performance metrics. Leveraging advanced data modeling, DAX calculations, and interactive visualizations, this tool aids healthcare providers in improving patient care, optimizing operations, and making data-driven decisions.
 
 ---
 
