@@ -12,11 +12,18 @@ This repository contains the Power BI Ecommerce dashboard project developed as p
 
 The primary goal of this project is to create a comprehensive and interactive Power BI dashboard that:
 
-- Explores the relationships between patient demographics and treatment outcomes.
-- Analyzes cost implications of medical procedures.
-- Assesses hospital performance through key metrics.
-- Supports decision-making for enhanced patient care and operational efficiency.
+Enhance Customer Engagement:
 
+Understand customer demographics and preferences to tailor personalized marketing strategies.
+Segment customers into meaningful groups to improve targeting and retention.
+Optimize Sales and Revenue:
+
+Identify product performance trends, such as bestsellers and underperforming items.
+Analyze customer spending patterns to maximize sales opportunities and predict future behavior.
+Streamline Operational Efficiency:
+
+Examine order fulfillment processes to reduce shipping costs and improve delivery times.
+Detect high-value orders and patterns in spending to allocate resources more effectively.
 ---
 
 ## **Key Features**
