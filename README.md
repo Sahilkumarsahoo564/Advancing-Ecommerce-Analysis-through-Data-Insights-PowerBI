@@ -1,10 +1,10 @@
-# **Advancing Ecommerce Analysis through Data Insights PowerBI**
+ba # **Advancing Ecommerce Analysis through Data Insights PowerBI**
 ![Image](https://github.com/user-attachments/assets/42c4ddd6-2278-44d1-ab4a-fb3cbee75791)
 
 
 ## **Overview**
 
-This repository contains the Power BI Ecommerce dashboard project developed as part of HealthStat Solutions' analytical initiatives. The dashboard provides deep insights into patient demographics, treatment outcomes, cost analysis, and hospital performance metrics. Leveraging advanced data modeling, DAX calculations, and interactive visualizations, this tool aids healthcare providers in improving patient care, optimizing operations, and making data-driven decisions.
+This repository contains the Power BI Ecommerce dashboard project developed as part of HealthStat Solutions' analytical initiatives. The dashboard provides deep insights into Customer spent capacity,Total spent by Membership,Total value by product and count,Country wise purchased quantity. Leveraging advanced data modeling, DAX calculations, and interactive visualizations, this tool aids E-commerce providers in improving , optimizing operations, and making data-driven decisions.
 
 ---
 
