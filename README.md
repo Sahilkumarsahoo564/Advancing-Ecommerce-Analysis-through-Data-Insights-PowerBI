@@ -18,17 +18,18 @@ The primary goal of this project is to create a comprehensive and interactive Po
 
 1. **Data Cleaning and Modeling**:
    - Addressed missing data, duplicate entries, and irrelevant data points.
-   - Merged two datasets using the `PatientID` as the key.
+   - Merged two datasets using the `CustomerID` as the key.
    - Created calculated columns and measures using DAX.
 2. **Advanced Analysis**:
-   - Categorized patients into age groups for demographic analysis.
-   - Analyzed trends in patient admissions over time.
-   - Explored recovery ratings by treatment type and hospital performance metrics.
-   - Implemented predictive modeling for recovery ratings.
+   - Categorised customers into spending tiers based on their total spending.
+   - Analysed customer demographics (e.g., country distribution) and correlating these with spending habits.
+   - Investigated the impact of membership status (e.g., VIP vs. Premium) on spending patterns and order frequency.
+   - Identified top-selling products and analyzing their popularity across countries.
 3. **Interactive Dashboard**:
-   - Visualized key metrics like diagnosis distribution, treatment costs, and recovery ratings.
-   - Enabled hospital, diagnosis, and treatment type filters for targeted insights.
-   - Designed time-based trend analysis and hospital performance comparisons.
+   -  Allowed users to filter data by country to analyze regional sales performance and customer behavior.
+   - Enabled filtering by membership type (e.g., VIP, Premium) to study spending patterns and loyalty.
+   - Filtered sales, popularity, and trends based on product categories or specific products.
+   - Provided a slicer for selecting custom date ranges (e.g.years) to analyze trends.
 4. **Data Storytelling**:
    - Highlighted significant insights and trends through engaging visual elements.
    - Summarized findings in a narrative format to support decision-making.
