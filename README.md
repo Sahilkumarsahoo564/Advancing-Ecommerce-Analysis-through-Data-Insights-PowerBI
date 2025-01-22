@@ -38,15 +38,15 @@ The primary goal of this project is to create a comprehensive and interactive Po
 
 ## **Datasets**
 
-### **HealthcareDataset1.xlsx**
+### **EcommerceDataset1.xlsx**
 
-- Contains patient information, diagnosis, treatment details, and billing data.  
-**Key Columns**: `PatientID`, `Age`, `Gender`, `Diagnosis`, `Treatment`, `AdmissionDate`, `DischargeDate`, `TotalBill`.
+- Contains Customer Name, Product details,Order details.  
+**Key Columns**: `OrderID`, `CustomerName`, `Product`, `Quantity`, `UnitPrice`, `OrderDate`, `ShippingCost`, `CustomerID`.
 
-### **HealthcareDataset2.xlsx**
+### **EcommerceDataset2.xlsx**
 
-- Includes hospital details, doctor assignments, and recovery ratings.  
-**Key Columns**: `PatientID`, `Hospital`, `DoctorName`, `RoomNumber`, `DailyCost`, `RecoveryRating`.
+- Includes Customer details, Purchase Date.  
+**Key Columns**: `CustomerID`, `Customer Email`, `Country`, `Membership`, `Signup Date`, `Last Order Date`,`Total spent`,`Communication log`.
 
 ---
 
@@ -54,22 +54,22 @@ The primary goal of this project is to create a comprehensive and interactive Po
 
 ### **Key Metrics**:
 
-- Patient demographics by age group, gender, and blood type.
-- Diagnosis and treatment distributions.
-- Average treatment costs and recovery ratings by hospital and treatment type.
-- Seasonal trends in patient admissions.
+- The dashboard shows a breakdown of sales by country and product.
+- It also shows the total value of sales by product.
+- The dashboard provides insights into customer spending habits.
 
 ### **Advanced Insights**:
 
-- Correlation between recovery ratings and treatment effectiveness.
-- Impact of doctors and hospitals on patient outcomes.
-- Room utilization and efficiency analysis.
+- Sales Trends and Seasonality.
+- Customer Segmentation and Behaviour.
+- Product Performance and Inventory.
 
 ### **Interactive Visualizations**:
 
-- Filters for hospitals, diagnoses, and treatment types.
-- Time-series analysis for trends in patient care.
-- Comparisons of hospital performance metrics.
+- Year-over-Year Total Spent.
+- Total Spent by Membership.
+- Country Wise Purchased Quantity.
+- Customer Spent Capacity.
 
 ---
 
@@ -87,13 +87,13 @@ The primary goal of this project is to create a comprehensive and interactive Po
    - Implement scheduled refresh in Power BI Service to ensure the dashboard always displays up-to-date data without manual intervention.
 
 2. **Integrating More Datasets for Deeper Insights**  
-   - Incorporate additional datasets, such as patient feedback, insurance claims, and regional healthcare metrics, to enhance the scope of analysis and provide a more comprehensive view.
+   - Incorporate additional datasets, such as Customer feedback, Product claims, and regional Product metrics, to enhance the scope of analysis and provide a more comprehensive view.
 
 3. **Enhancing the Predictive Model for Recovery Ratings**  
    - Improve the DAX-based predictive model by integrating machine learning models using Python or R scripts in Power BI.  
-   - Add features like patient history and treatment adherence to increase prediction accuracy.
+   - Add features like Product purchase history to increase prediction accuracy.
 
 4. **Adding Real-Time Analytics for Hospital Capacity Needs**  
-   - Leverage real-time data streams to predict hospital occupancy and capacity requirements dynamically.  
+   - Leverage real-time data streams to predict Product occupancy and capacity requirements dynamically.  
    - Use tools like Azure Stream Analytics to feed real-time data into Power BI dashboards for actionable insights.
 
